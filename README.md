@@ -30,8 +30,7 @@ In the retail industry, understanding customer personas is essential for targete
 ├── custseg.py                   # Main clustering & visualization logic
 ├── Mall_Customers.csv           # Input dataset
 ├── customer_segments_output.csv # Final report with assigned cluster labels
-├── customer_segmentation.pkl    # Serialized K-Means model
-└── README.md                    # Project documentation
+└── customer_segmentation.pkl    # Serialized K-Means model
 
 ```
 
