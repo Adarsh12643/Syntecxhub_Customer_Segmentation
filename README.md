@@ -1,4 +1,4 @@
-# 🛍️ Customer Segmentation using K-Means - Syntecxhub Internship
+# 🛍️ Customer Segmentation using K-Means
 
 In the retail industry, understanding customer personas is essential for targeted marketing and customer retention. Unlike supervised learning, this project uses **Clustering** to find hidden patterns in data without pre-defined labels. Using the **K-Means** algorithm, I identified natural groupings within a mall customer dataset to derive data-driven business insights.
 
